@@ -1,4 +1,3 @@
-![imagem_alt](https://github.com/allyxolotl/banner/blob/b14d9df32786bc75f282bb1400adc0a8447b8835/dccb22ac-ec5d-4dfa-8bf3-caaf4ba77437.jpg)
 # 🐦‍⬛ Ally Xolotl
 
 **'👾 beginner dev'**
