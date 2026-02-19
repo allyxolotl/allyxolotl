@@ -22,7 +22,7 @@ Hi, my name is Júlia Oliveira, I am 18 years old, and I'm from Arapiraca, Brazi
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     /> [My LinkedIn](https://www.instagram.com/ally_xolotl/)
 <br/>
- ### l🌐 Programming Languages & Technologies
+ ### l🌐 Languages and Tools
 ---
 <img 
     align="left" 
